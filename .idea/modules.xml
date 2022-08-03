@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anagrama/Anagrama.iml" filepath="$PROJECT_DIR$/Anagrama/Anagrama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AreaPoligono/AreaPoligono.iml" filepath="$PROJECT_DIR$/AreaPoligono/AreaPoligono.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioFizzBuzz/EjercicioFizzBuzz.iml" filepath="$PROJECT_DIR$/EjercicioFizzBuzz/EjercicioFizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroPrimo/NumeroPrimo.iml" filepath="$PROJECT_DIR$/NumeroPrimo/NumeroPrimo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindromos/Palindromos.iml" filepath="$PROJECT_DIR$/Palindromos/Palindromos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SucesionFibonacci/SucesionFibonacci.iml" filepath="$PROJECT_DIR$/SucesionFibonacci/SucesionFibonacci.iml" />
+    </modules>
+  </component>
+</project>
